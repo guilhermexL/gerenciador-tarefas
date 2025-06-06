@@ -44,6 +44,7 @@ npm install
 npx expo start
 ```
 
+> [!NOTE]
 > Certifique-se de ter o ambiente React Native configurado corretamente. Veja a [documentação oficial](https://reactnative.dev/docs/environment-setup).
 
 ## Estrutura do Projeto
